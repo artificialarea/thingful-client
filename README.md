@@ -1,4 +1,8 @@
 # Thingful Client
+Pair: Sultana + Sacha
+
+<br />
+
 
 ## Setting Up
 
